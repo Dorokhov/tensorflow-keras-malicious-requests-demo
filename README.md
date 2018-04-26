@@ -1,4 +1,4 @@
-# TensorFlow Malicious Requests Demo
+# TensorFlow Malicious Requests Detection Demo
 This project demonstrates how to apply TensorFlow and neural networks for detecting malicious requests and visualize results on TensorBoard
 
 # Prerequisites
