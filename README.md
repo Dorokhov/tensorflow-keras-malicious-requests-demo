@@ -49,7 +49,7 @@ Ensure **"Label Mode"** is **enabled** ("A" icon is checked):
 
 ![alt tag](assets/enable-label.jpg)
 
-Now, you should be able something like this:
+Now, you should be able to see visualisation of log request classification:
 
 ![alt tag](assets/tensorboard-demo.jpg)
 
